@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1595032554 source:e:\utn\laboratorio\juego10mil\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+
+1595020801 e:\utn\laboratorio\juego10mil\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1595020744 e:\utn\laboratorio\juego10mil\funciones.h
+
+1595021348 source:e:\utn\laboratorio\juego10mil\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"locale.h"
+	"rlutil.h"
+	"funciones.h"
+
+1595032554 source:e:\utn\primer cuatrimestre\laboratorio\juego10mil\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+
+1595020801 e:\utn\primer cuatrimestre\laboratorio\juego10mil\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1595020744 e:\utn\primer cuatrimestre\laboratorio\juego10mil\funciones.h
+
+1595032592 source:e:\utn\primer cuatrimestre\laboratorio\juego10mil\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"locale.h"
+	"rlutil.h"
+	"funciones.h"
+
